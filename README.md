@@ -13,4 +13,6 @@ The Twilog is a system for logging programmers working reports. it's based on th
 
 # Donation
 
-For supporting us, you can donate using this bitcoin id or scan the QR code: 
+For supporting us, you can donate using this bitcoin address or scan the QR code: 
+
+37m2PYm379LY4JJhQUuwxeoasRRhdeV1kk
