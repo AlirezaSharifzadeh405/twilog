@@ -1,7 +1,7 @@
 # What is Twilog?
 Twilog microreportting system
 
-the Twilog is a system for logging programmers working reports. it's based on the microblogging service. 
+The Twilog is a system for logging programmers working reports. it's based on the microblogging service. 
 
 # Features
 
