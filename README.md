@@ -16,3 +16,5 @@ The Twilog is a system for logging programmers working reports. it's based on th
 For supporting us, you can donate using this bitcoin address or scan the QR code: 
 
 37m2PYm379LY4JJhQUuwxeoasRRhdeV1kk
+
+![Twilog Recieve Bitcoin Address](https://github.com/AlirezaSharifzadeh405/twilog/raw/master/Twilog%20Bitcoin%20QR.png)
