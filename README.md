@@ -1,8 +1,12 @@
 # Twilog
 Twilog microreportting system
 
-the Twilog is a system for logging programmers working reports. my system based microblogging service. you can donate using this bitcoin id or scan the QR code: 
+the Twilog is a system for logging programmers working reports. it's based on the microblogging service. 
 
 # Features
 
 # Todo
+
+# Donation
+
+For supporting us, you can donate using this bitcoin id or scan the QR code: 
